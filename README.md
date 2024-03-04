@@ -25,5 +25,6 @@ Armed with a refined dataset, we employ advanced analytical techniques and visua
 
 Join us as we unravel the intricacies of the data industry, glean insights from the experiences of data professionals, and gain a deeper understanding of the factors driving success and satisfaction in this dynamic field.
 
+![image](https://github.com/Sarahvalwork/Exploring-the-Data-Profession-A-Comprehensive-Survey-Analysis/assets/157971182/4a6266a3-676b-4385-a414-6bb567b47502)
 
 
